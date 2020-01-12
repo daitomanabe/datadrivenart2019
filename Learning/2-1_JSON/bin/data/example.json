@@ -1,0 +1,13 @@
+{
+	"int": 3,
+	"double": 0.3,
+	"bool": true,
+	"string": "string",
+	"null": null,
+	"array": [1, 2, 3.2, 4.0],
+	"object": {
+		"key1": 1.1,
+		"key2": 2.3,
+		"key3": 3.4
+	}
+}
