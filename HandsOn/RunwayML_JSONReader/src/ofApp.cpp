@@ -1,7 +1,7 @@
 #include "ofMain.h"
 
 class ofApp : public ofBaseApp {
-
+    
 public:
     inline virtual void setup() override {
         
