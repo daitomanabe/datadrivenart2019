@@ -2,7 +2,8 @@
 # general
 #########################
 
-[Bb]in/
+Bin/*
+bin/*
 [Bb]uild/
 [Oo]bj/
 *.o
