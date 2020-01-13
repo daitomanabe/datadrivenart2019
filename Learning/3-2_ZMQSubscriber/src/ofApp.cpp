@@ -30,7 +30,7 @@ public:
             std::string type = json["type"];
             if(type == "keyPressed") {
                 int key = json["key"];
-                if(std::isprint(key)) {
+                if(isprint(key)) {
                     key_string += static_cast<char>(key);
                 } else if(key == OF_KEY_RETURN) {
                     key_string = "";
